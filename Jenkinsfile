@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         IMAGE   = "heenadocker5866/trend-app"
-        CLUSTER = "trend-eks-cluster"
+        CLUSTER = "trend-cluster"
         REGION  = "us-east-1"
     }
 
