@@ -3,6 +3,9 @@
 .env
 .env.*
 node_modules/
+<<<<<<< HEAD
 dist/
+=======
+>>>>>>> 0352910106950e8257be642c6d92f0ec1e9b5a6c
 .DS_Store
 
